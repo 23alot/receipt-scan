@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="total_sum">ИТОГ</string>
+    <string name="nds18_sum">Сумма НДС 18%</string>
+    <string name="ecash">Электронными</string>
+    <string name="cash">Наличными</string>
+    <string name="user">Пользователь</string>
+    <string name="buyer_address">Адрес</string>
+    <string name="sender_address">Место расчетов</string>
+    <string name="operator">Кассир</string>
+    <string name="kkt">РН ККТ</string>
+    <string name="shift_number">Смена №</string>
+    <string name="date_time">Дата Время</string>
+    <string name="fiscal_document">ФД №</string>
+    <string name="fiscal_drive">ФН №</string>
+    <string name="request_number">Чек №</string>
+    <string name="retail_place">Адрес магазина</string>
+    <string name="inn">ИНН</string>
+    <string name="nds18">НДС 18%</string>
+    <string name="nds10">НДС 10%</string>
+    <string name="scan">Сканировать</string>
+    <string name="history">История</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
